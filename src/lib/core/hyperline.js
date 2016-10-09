@@ -5,6 +5,7 @@ export const hyperlineFactory = (React) => {
     const lineStyle = {
       display: 'flex',
       alignItems: 'center',
+      justifyContent: 'flex-end',
       position: 'absolute',
       overflow: 'hidden',
       bottom: 0,
